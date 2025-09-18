@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Focah! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-sacco/)
+
+**University Student** &nbsp;|&nbsp; **Part-Time Software Developer**
+
+---
+
+## 🚀 About Me
+
+I'm a university student with a passion for coding and experimentation. By day, I work with AL code as a part-time developer; by night, I love to explore new technologies like Python, Three.js, and Flutter. Always curious, always building!
+
+---
+
+## 🛠️ Languages & Tools
+
+- **AL** (Business Central)
+- **Python**
+- **Three.js**
+- **Flutter**
+- **C# and .Net**
+- ...and always open to learning more!
+
+---
 
 <!--
-**Focah/Focah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want to collaborate or chat? Feel free to reach out!
 -->
